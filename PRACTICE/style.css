@@ -1,0 +1,119 @@
+/* style for the first navbar*/
+.banner1{
+    background-color: #2A2855;
+    display: flex; font: 40px;
+    height: 50px;
+}
+
+.banner1 h4{
+    color: white;
+    font-size: 14px;
+    margin-top: 22px;
+    
+}
+.time{
+    margin: 22px 0 0 550px !important;
+
+}
+.adress{
+    margin-left: 100px;
+}
+.number{
+    margin-left: 30px;
+}
+/* style for the first navbar ends here */
+
+/* style for the second navbar */
+
+.purchase{
+border: 2px solid #2A2855;
+border-radius: 12px;
+margin: 0 120px 0 0;
+}
+/* style for the first navbar ends here */
+
+/* style for the carousel */
+.headertext{
+font-size: 50px;
+font-weight: 700;
+color: #2A2855;
+margin: -500px 0 0 80px !important;
+}
+.subtext{
+    font-size: 30px;
+    font-weight: 400;
+    color: #2A2855;
+    margin: 10px 0 0 80px !important;
+}
+.read{
+    background-color: #2A2855;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    height: 60px;
+    width: 130px;
+    margin: 40px 80px 0 60px;
+}
+  .contact{
+    background-color: #FDDA48;
+    color: #2A2855;
+    border: none;
+    border-radius: 4px;
+    height: 40px;
+    width: 130px;
+    margin: 30px 0 20px 10px;
+}
+/*style for the carousel ends */
+
+    .welcome{
+    text-align: center;
+    margin: 80px 0 0 0 !important;
+
+    }
+    .welcome h2{
+    color: #2A2855;
+    font-size: 40px;
+    font-weight: 700;
+    }
+    .welcome h5{
+    color: #2A2855;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+ 
+  
+.banner{
+    display: flex;
+}
+
+.specialist{
+    margin: 0 0 0 30px;
+}
+
+.phone{
+    margin: 12px 0 0 8px !important;
+}
+
+.elixir{
+    text-align: center;
+    margin: 50px 0 0 0;
+}
+
+.hrow{
+    width: 60px !important;
+    color: red !important;
+    height: 4px !important;
+    margin: 10px 0 0 550px;
+}
+
+.elixImg{
+    width: 700px;
+    height: 600px;
+}
+.picture1{
+    width: 100px;
+    height: 400px;
+    margin: 0 100px 0 0;
+    size: 500px;
+}
